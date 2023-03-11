@@ -2,7 +2,7 @@
 
 Trabalho realizado para o **Curso de Desenvolvimento de Software, nivel avançado**, realizado pela Universidade Federal de Santa Catarina.
 
-O projeto trata-se apenas do backend de um Blog simples.
+O projeto trata-se de uma API para um Blog simples.
 
 Para realizar teste você pode verificar o arquivo ```ENDPOINTS.txt```, que contém todos os endpoints do projeto.
 
